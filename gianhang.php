@@ -35,7 +35,7 @@
 		<div class="avatar">
 			<div class="img-avatar">
 				<img src="images/logo.png" alt="">
-				<span>Em book</span>
+				<span>Em bookpjiojpoikmp</span>
 				<div class="contentrating"> 
 					<i class="fa fa-star " aria-hidden="true"></i> 
 					<i class="fa fa-star " aria-hidden="true"></i>
